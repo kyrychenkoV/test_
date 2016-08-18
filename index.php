@@ -1,4 +1,5 @@
 <?php
 
 echo 'HELLO';
+echo '';
 ?>
